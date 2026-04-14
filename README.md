@@ -1,0 +1,2 @@
+## PyTorch Tutorial / Note
+This repository holds a series of Jupyter / Colab Notebook that goes in-depth on inner-workings of PyTorch, learnt from this amazing series of tutorial [https://youtu.be/V_xro1bcAuA].
